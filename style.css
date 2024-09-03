@@ -26,3 +26,7 @@ li {
 ul{
     color: antiquewhite;
 }
+.li1 {
+
+list-style: none;
+}
