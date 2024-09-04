@@ -5,15 +5,15 @@ body {
 }
 
 h1{
-    color:blue;
+    color:rgb(0, 128, 248);
 }
 
 h2{
-    color: blueviolet;
+    color: rgb(58, 9, 104);
 }
 
 h3{
-    color: aqua;
+    color: rgb(125, 231, 231);
 }
 
 p{
